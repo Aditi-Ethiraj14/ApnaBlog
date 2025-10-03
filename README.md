@@ -53,25 +53,39 @@ It is perfect for individuals or communities who want a simple yet powerful plat
 
 ## **🚀 Installation & Setup**
 
-### **Backend**
+### **1. Clone the Repository**
+```bash
+git clone https://github.com/Aditi-Ethiraj14/ApnaBlog.git
+cd ApnaBlog
+```
+
+### **2. Configure Environment Variables**
+Create a .env file inside the backend folder and add the following:
+```bash
+MONGO_URL=your_mongodb_connection_string
+JWT_SECRET=your_jwt_secret
+PORT=3000
+```
+
+### **3. Backend Setup**
 ```bash
 cd backend
 npm install
 npm run dev
 ```
+Backend will now run at http://localhost:3000
 
-### **Frontend**
+### **Frontend Setup**
 ```bash
 cd frontend
 npm install
 npm run dev
 ```
+Frontend will now run at http://localhost:5173
 
+### **5. Access the Application**
 
----
-
-## 🖼 Screenshots
-*(Add project screenshots here)*
+Working video-
 
 ---
 
