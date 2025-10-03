@@ -15,14 +15,13 @@ It is perfect for individuals or communities who want a simple yet powerful plat
 - **Blog Management**: Create, edit, delete blogs with a rich text editor.  
 - **Likes & Comments**: Engage with posts through likes and comments.  
 - **Search & Filtering**: Search blogs and filter by categories.  
-- **Admin Dashboard**: Manage all posts and users.  
 - **Image Upload**: Integrated support for blog images.
 
 ---
 ## 🖼 Working
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/82d088d3-db22-4c52-af11-8eeb85604e9b" width="48%" height="820px">
+  <img src="https://github.com/user-attachments/assets/82d088d3-db22-4c52-af11-8eeb85604e9b" width="48%">
   <img src="https://github.com/user-attachments/assets/3ab9cd86-a8d4-43f6-895c-d01ba28d63af" width="48%">
 </div>
 
