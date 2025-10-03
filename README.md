@@ -3,8 +3,8 @@
 ---
 
 ## **📄 Project Overview**
-This is a **full-stack blogging application** that allows users to **create, edit, delete, and view blogs**.  
-The platform includes **rich text editing**, **likes**, **comments**, **user profiles**, and **admin control** for managing posts and users.
+ApnaBlog is a full-stack blogging application that allows users to create, edit, delete, and view blogs.  
+The platform includes rich text editing, likes, comments, user profiles, and admin control for managing posts and users.
 
 ---
 
