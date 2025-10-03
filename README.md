@@ -1,5 +1,4 @@
 # **MERN Blogging Platform**
----
 
 ## 📄 Project Overview
 ApnaBlog is a full-stack blogging application that allows users to create, edit, delete, and view blogs.  
