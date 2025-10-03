@@ -22,7 +22,7 @@ It is perfect for individuals or communities who want a simple yet powerful plat
 ## 🖼 Working
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/82d088d3-db22-4c52-af11-8eeb85604e9b" width="48%">
+  <img src="https://github.com/user-attachments/assets/82d088d3-db22-4c52-af11-8eeb85604e9b" width="48%" height="320px">
   <img src="https://github.com/user-attachments/assets/3ab9cd86-a8d4-43f6-895c-d01ba28d63af" width="48%">
 </div>
 
