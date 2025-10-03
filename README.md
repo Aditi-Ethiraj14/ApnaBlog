@@ -6,13 +6,7 @@ The platform includes rich text editing, likes, comments, user profiles, and adm
 ApnaBlog is built to be scalable, secure, and intuitive, offering a smooth experience for bloggers and readers alike.  
 It is perfect for individuals or communities who want a simple yet powerful platform to share ideas and stories online.  
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github.com/user-attachments/assets/82d088d3-db22-4c52-af11-8eeb85604e9b" width="400">
-  <img src="https://github.com/user-attachments/assets/3ab9cd86-a8d4-43f6-895c-d01ba28d63af" width="350">
-  <img src="https://github.com/user-attachments/assets/f109ff82-95dd-47ac-85bc-b06377563372" width="350">
-  <img src="https://github.com/user-attachments/assets/d58582b5-6181-456c-acd3-0c9f3dc1c887" width="350">
-</div>
-
+<img width="2481" height="1190" alt="ApnaBlog Screenshot" src="https://github.com/user-attachments/assets/82d088d3-db22-4c52-af11-8eeb85604e9b" /> <img width="2493" height="1336" alt="image" src="https://github.com/user-attachments/assets/3ab9cd86-a8d4-43f6-895c-d01ba28d63af" /> <img width="2515" height="1338" alt="image" src="https://github.com/user-attachments/assets/f109ff82-95dd-47ac-85bc-b06377563372" /> <img width="2494" height="1346" alt="image" src="https://github.com/user-attachments/assets/d58582b5-6181-456c-acd3-0c9f3dc1c887" />
 
 ---
 
